@@ -13,6 +13,6 @@ permalink: /about/
     </a>
   </div>
   <div class="column">
-    <img src="{ "/assets/img/logo-d2in.svg" | relative_url }}" alt="Discrete-to-Integrated (D2In) Research Group">
+    <img src="{{ "/assets/img/logo-d2in.svg" | relative_url }}" alt="Discrete-to-Integrated (D2In) Research Group">
   </div>
 </div>
