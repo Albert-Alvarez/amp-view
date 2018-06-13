@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This application is used to control all compatible instruments and accessories developed by D2In .
 short-title: AmpVIEW
 sub-title: Online User Guide
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/amp-view" # the subpath of your site, e.g. /blog
+url: "https://albertalvarezcarulla.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
