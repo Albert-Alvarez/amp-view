@@ -1,0 +1,58 @@
+
+input[type=search] {
+    font-family: append(FontAwesome, $base-font-family, comma);
+    font-size: $base-font-size;
+    padding: .375rem .75rem;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    // $base-font-size*20;
+}
+
+.site-title {
+    width: 250px;
+    line-height: 1.25em;
+    span {
+        display: block;
+    }
+    span:nth-child(2) {
+        margin-top: 20px;
+    }
+    span:nth-child(3) {
+        font-size: 20px;
+    }
+    img {
+        height: 2.5em;
+        margin: 20px 20px 20px 0px;
+        float: left;
+    }
+}
+
+.site-nav {
+    margin-top: 20px;
+}
+
+.row-logo {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+    .column {
+        text-align: center;
+        width: 50%;
+        margin-bottom: 50px;
+        @media screen and (max-width: 500px) {
+            width: 100%;
+        }
+        img {
+            height: 90px;
+        }
+    }
+}
