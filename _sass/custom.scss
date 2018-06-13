@@ -1,6 +1,6 @@
 
 input[type=search] {
-    font-family: append(FontAwesome, $base-font-family, comma);
+    font-family: $base-font-family;
     font-size: $base-font-size;
     padding: .375rem .75rem;
     width: 100%;

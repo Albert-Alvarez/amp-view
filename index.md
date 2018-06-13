@@ -10,7 +10,7 @@ date: 2018-06-13 14:09:00
 ---
 AmpVIEW's Online User Guide is an expansive set of resources that helps you find the information you need for your electrochemical measurements.
 
-<input type="search" placeholder="&#xF002;" id="input-search">
+<input type="search" placeholder="Search" id="input-search">
 
 <h1>Contents</h1>
 <ul class="category-list">
