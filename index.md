@@ -18,7 +18,7 @@ AmpVIEW's Online User Guide is an expansive set of resources that helps you find
     {% for category in categories %}
     {% assign category_pages = site.pages | where:"categories",category %}
     <li>
-        <a href="/category/{{ category | replace: " ","-" | downcase }}">{{ category}} ({{ category_pages | size }})</a>
+        <a href="/{{ site.baseurl }}/category/{{ category | replace: " ","-" | downcase }}">{{ category}} ({{ category_pages | size }})</a>
     </li>
     {% endfor %}
 </ul>
