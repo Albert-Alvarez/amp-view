@@ -56,3 +56,23 @@ input[type=search] {
         }
     }
 }
+
+#results-container {
+    background-color: red;
+    margin: 0px;
+    padding: 0px 30px;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+    li {
+        list-style-type: none;
+    }
+
+    li+li {
+        border-top: 1px solid #ced4da;
+    }
+
+}
