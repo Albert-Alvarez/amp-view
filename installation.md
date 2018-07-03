@@ -21,7 +21,7 @@ published: true
 3. Now, choose the location of the directory where you want to install the AmpVIEW. It is recommended not doing any change.
 
 
- ![Location of installation of AmpVIEW]({{ "/assets/img/ampview-destination-directory.jpg" | relative_url }})
+ ![Location of installation of AmpVIEW]({{ "/assets/img/ampview-destination-directory.jpg" | absolute_url }})
 
 4. Read and accept the license agreements and click *next*.
 
@@ -31,17 +31,17 @@ published: true
 
 7. A new window will appear on your screen, corresponding to the installer of the Driver. 
 
-![Drivers setup]({{ "/assets/img/setup-dirivers.jpg" | relative_url }})
+![Drivers setup]({{ "/assets/img/setup-dirivers.jpg" | absolute_url }})
 
 8. By clicking *next*, you will have to read and agree the 2 license agreements again.
 
 9. In the following step, choose the directory where the software will be installed.
 
-![Location of installation of drivers]({{ "/assets/img/drivers-installation-directory.jpg" | relative_url }})
+![Location of installation of drivers]({{ "/assets/img/drivers-installation-directory.jpg" | absolute_url }})
 
 10. Select the components you want to install. Choose the ones that are selected by default. Then, click *next*.
 
-![Driver components]({{ "/assets/img/drivers-components.jpg" | relative_url }})
+![Driver components]({{ "/assets/img/drivers-components.jpg" | absolute_url }})
 
 11. Now you can begin to install MSP430 Flash Emulation Driver Installer. When the process is completed, click to *finish*.
 
