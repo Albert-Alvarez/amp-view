@@ -10,11 +10,9 @@ date: 2018-06-13 15:00:00
 author: Biel Vives
 published: true
 ---
-*Note: In order to install the software, you must have previously installed LABVIEW software. Notice that the installer contains two different installations: AmpVIEW software (Steps 1-6) and MSP430 Flash Emulation Driver (Steps 7-12)*
+*Note: The installer contains two different installations: AmpVIEW software (Steps 1-6) and MSP430 Flash Emulation Driver (Steps 7-12)*
 
-
-
-1. Download the software installer from: <EMPTY>. A *rar* file will be downloaded.
+1. Unzip the *rar* file provided by D2In.
 
 2. From all the files downloaded, click on *setup* app file. If you receive a Windows warning asking for permission for continuing with the installation process, click *Yes*. A window will appear, corresponding to the installer of AmpVIEW.
 
