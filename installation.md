@@ -14,7 +14,7 @@ published: true
 
 
 
-1. Download the software installer from: <https://we.tl/nY6p95vb4F>. A *rar* file will be downloaded.
+1. Download the software installer from: <EMPTY>. A *rar* file will be downloaded.
 
 2. From all the files downloaded, click on *setup* app file. If you receive a Windows warning asking for permission for continuing with the installation process, click *Yes*. A window will appear, corresponding to the installer of AmpVIEW.
 
